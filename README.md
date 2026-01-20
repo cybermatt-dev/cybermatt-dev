@@ -3,8 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I'm a Cybersecurity Analyst with hands-on experience in SOC operations, Threat Hunting, and Purple Team testing
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
